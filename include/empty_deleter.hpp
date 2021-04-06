@@ -1,5 +1,6 @@
 // Copyright 2020 Your Name <your_email>
 
+
 #ifndef BOOST_LOG_UTILITY_EMPTY_DELETER_HPP_INCLUDED_
 #define BOOST_LOG_UTILITY_EMPTY_DELETER_HPP_INCLUDED_
 #include <boost/log/detail/config.hpp>
